@@ -7,14 +7,12 @@
     android:background="@color/white"
     tools:context=".MainActivity">
 
-
-
     <TextView
         android:layout_width="451dp"
         android:layout_height="52dp"
         android:background="@color/azul"
         android:text="    "
-        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteX="-19dp"
         tools:layout_editor_absoluteY="0dp">
 
     </TextView>
@@ -24,8 +22,8 @@
         android:layout_height="52dp"
         android:background="@color/azul"
         android:text="    "
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="724dp">
+        tools:layout_editor_absoluteX="-20dp"
+        tools:layout_editor_absoluteY="681dp">
 
     </TextView>
 
