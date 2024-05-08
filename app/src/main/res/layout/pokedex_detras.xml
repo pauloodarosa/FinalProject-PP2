@@ -19,6 +19,7 @@
         app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+
         app:layout_constraintVertical_bias="0.496" />
 
     <TextView
@@ -51,7 +52,7 @@
         android:scaleType="centerCrop"
         android:src="@drawable/pokbll"
         android:tint="#FFFFFF"
-        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteX="165dp"
         tools:layout_editor_absoluteY="665dp" />
 
     <View
@@ -85,7 +86,7 @@
         android:scaleType="centerCrop"
         android:src="@drawable/gorra"
         android:tint="#FFFFFF"
-        tools:layout_editor_absoluteX="166dp"
+        tools:layout_editor_absoluteX="27dp"
         tools:layout_editor_absoluteY="670dp" />
 
     <ImageButton
