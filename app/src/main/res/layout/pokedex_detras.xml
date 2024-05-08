@@ -7,7 +7,18 @@
     android:background="@color/white"
     tools:context=".MainActivity">
 
-
+    <ImageView
+        android:id="@+id/myImageView"
+        android:layout_width="424dp"
+        android:layout_height="574dp"
+        android:contentDescription="Descripción accesible de la imagen"
+        android:scaleType="centerCrop"
+        android:src="@drawable/back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.497" />
 
     <TextView
         android:layout_width="451dp"
